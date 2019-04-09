@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Halasdflo Tobasdfasdfiasa saHAWARAd 
+=======
+Hallo Tobiasa sad 
+
+asdfasdfsdfasdf
+>>>>>>> master
